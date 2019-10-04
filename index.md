@@ -6,7 +6,7 @@ After 10 years, I will refactor this project and upgrade it to the latest techno
 
 ### What is in it?
 
-It is a Windows Form Application which built with **.Net Framework 3.5**
+It is a Windows Form Application which built with **.Net Framework 3.5**.
 Basically it is useful for finding a file in a complex folder. Especially finding a code file might be really hard in a huge project.
 I can't say is this app better then Windows Explorer or not, but I can say that after I finish the refactoring, it will be.
 
