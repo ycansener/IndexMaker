@@ -12,7 +12,7 @@ I can't say is this app better then Windows Explorer or not, but I can say that 
 
 ### What can you find in this repo?
 
-I will be refactor this complete application step by step.
+I will refactor this complete application step by step.
 And I will mark every step with the description of the refactoring.
 Then you will be able to see the transformation of a real-life application from the old tech to newest tech.
 
