@@ -31,7 +31,7 @@ Then you will be able to see the transformation of a real-life application from 
 
 Use it wisely, freely.
 Improve it daily.
-Drink responsively.
+Drink responsibly.
 
 
 ### Support or Contact
