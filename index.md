@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## What is IndexMaker?
 
-You can use the [editor on GitHub](https://github.com/ycansener/IndexMaker/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It is an almost 10 years old project that I developed in my first year at the University. I found it when I migrate my old files to an external hard drive. Lucky me!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After 10 years, I will refactor this project and upgrade it to the latest technology without breaking it.
 
-### Markdown
+### What is in it?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is a Windows Form Application which built with **.Net Framework 3.5**
+Basically it is useful for finding a file in a complex folder. Especially finding a code file might be really hard in a huge project.
+I can't say is this app better then Windows Explorer or not, but I can say that after I finish the refactoring, it will be.
 
-```markdown
-Syntax highlighted code block
+### What can you find in this repo?
 
-# Header 1
-## Header 2
-### Header 3
+I will be refactor this complete application step by step.
+And I will mark every step with the description of the refactoring.
+Then you will be able to see the transformation of a real-life application from the old tech to newest tech.
 
-- Bulleted
-- List
+### What will be the final result?
 
-1. Numbered
-2. List
+1. Low Coupling & High Cohesion
+2. SOLID Principles
+3. Domain Driven Design
+4. Most of the part that we can convert will be .Net Core 2.2
+5. We may include a brand new Web Project to serve same functionality online.
+6. For the all new parts that I will include, I will follow the rules of Test Driven Development.
+7. After all I will run this whole project on a Docker Container.
+8. I will enjot it!
 
-**Bold** and _Italic_ and `Code` text
+### What is the License deal here?
 
-[Link](url) and ![Image](src)
-```
+Use it wisely, freely.
+Improve it daily.
+Drink responsively.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ycansener/IndexMaker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me through my website: ycansener.com
