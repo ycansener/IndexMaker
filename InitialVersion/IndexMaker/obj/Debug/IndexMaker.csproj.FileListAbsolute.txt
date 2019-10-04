@@ -1,0 +1,27 @@
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\bin\Debug\IndexMaker.exe
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\bin\Debug\IndexMaker.pdb
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\obj\Debug\IndexMaker.Form1.resources
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\obj\Debug\IndexMaker.Properties.Resources.resources
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\obj\Debug\IndexMaker.csproj.GenerateResource.Cache
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\obj\Debug\IndexMaker.exe
+C:\Users\siskon\AppData\Local\Temporary Projects\IndexMaker\obj\Debug\IndexMaker.pdb
+C:\Users\siskon\Desktop\IndexMaker\IndexMaker\obj\Debug\IndexMaker.exe
+C:\Users\siskon\Desktop\IndexMaker\IndexMaker\obj\Debug\IndexMaker.pdb
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\IndexMaker.exe
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\IndexMaker.pdb
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\bin\Debug\IndexMaker.exe
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\bin\Debug\IndexMaker.pdb
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\IndexMaker.Form1.resources
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\IndexMaker.Properties.Resources.resources
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\ResGen.read.1.tlog
+C:\Users\YCAN\Desktop\1gb yedek\flashdisk\IndexMaker\IndexMaker\obj\Debug\ResGen.write.1.tlog
+C:\Users\gamachine\Desktop\IndexMaker\bin\Debug\IndexMaker.exe
+C:\Users\gamachine\Desktop\IndexMaker\bin\Debug\IndexMaker.pdb
+C:\Users\gamachine\Desktop\IndexMaker\obj\Debug\IndexMaker.csprojAssemblyReference.cache
+C:\Users\gamachine\Desktop\IndexMaker\obj\Debug\IndexMaker.Form1.resources
+C:\Users\gamachine\Desktop\IndexMaker\obj\Debug\IndexMaker.Properties.Resources.resources
+C:\Users\gamachine\Desktop\IndexMaker\obj\Debug\IndexMaker.csproj.GenerateResource.cache
+C:\Users\gamachine\Desktop\IndexMaker\obj\Debug\IndexMaker.exe
+C:\Users\gamachine\Desktop\IndexMaker\obj\Debug\IndexMaker.pdb
