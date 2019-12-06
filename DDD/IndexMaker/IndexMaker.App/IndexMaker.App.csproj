@@ -103,7 +103,7 @@
       <Project>{D60EB76E-FC21-4E59-A431-EFE6F99BABB9}</Project>
       <Name>IndexMaker.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="IndexMaker.Infrastructure\IndexMaker.Infrastructure.csproj">
+    <ProjectReference Include="..\IndexMaker.Infrastructure\IndexMaker.Infrastructure.csproj">
       <Project>{1972A899-75F9-4165-AB38-4BF3FD6ED307}</Project>
       <Name>IndexMaker.Infrastructure</Name>
     </ProjectReference>

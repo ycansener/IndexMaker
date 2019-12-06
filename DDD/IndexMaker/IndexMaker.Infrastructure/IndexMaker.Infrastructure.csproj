@@ -45,7 +45,7 @@
     <Compile Include="Services\DirectoryManagementService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\IndexMaker.Domain\IndexMaker.Domain.csproj">
+    <ProjectReference Include="..\IndexMaker.Domain\IndexMaker.Domain.csproj">
       <Project>{D60EB76E-FC21-4E59-A431-EFE6F99BABB9}</Project>
       <Name>IndexMaker.Domain</Name>
     </ProjectReference>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMaker", "IndexMaker.csproj", "{4281D768-BF16-4D36-8F83-476C38469DE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMaker.App", "IndexMaker.App\IndexMaker.App.csproj", "{4281D768-BF16-4D36-8F83-476C38469DE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMaker.Domain", "..\IndexMaker.Domain\IndexMaker.Domain.csproj", "{D60EB76E-FC21-4E59-A431-EFE6F99BABB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMaker.Domain", "IndexMaker.Domain\IndexMaker.Domain.csproj", "{D60EB76E-FC21-4E59-A431-EFE6F99BABB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexMaker.Infrastructure", "IndexMaker.Infrastructure\IndexMaker.Infrastructure.csproj", "{1972A899-75F9-4165-AB38-4BF3FD6ED307}"
 EndProject
