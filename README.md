@@ -25,7 +25,7 @@ Then you will be able to see the transformation of a real-life application from 
 5. We may include a brand new Web Project to serve same functionality online.
 6. For the all new parts that I will include, I will follow the rules of Test Driven Development.
 7. After all I will run the whole project on a Docker Container.
-8. I will enjot it!
+8. I will enjoy it!
 
 ### What is the License deal here?
 
